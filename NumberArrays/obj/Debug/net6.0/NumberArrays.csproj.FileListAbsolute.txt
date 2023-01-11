@@ -1,0 +1,15 @@
+C:\Users\pere\source\repos\week6\NumberArrays\bin\Debug\net6.0\NumberArrays.exe
+C:\Users\pere\source\repos\week6\NumberArrays\bin\Debug\net6.0\NumberArrays.deps.json
+C:\Users\pere\source\repos\week6\NumberArrays\bin\Debug\net6.0\NumberArrays.runtimeconfig.json
+C:\Users\pere\source\repos\week6\NumberArrays\bin\Debug\net6.0\NumberArrays.dll
+C:\Users\pere\source\repos\week6\NumberArrays\bin\Debug\net6.0\NumberArrays.pdb
+C:\Users\pere\source\repos\week6\NumberArrays\obj\Debug\net6.0\NumberArrays.csproj.AssemblyReference.cache
+C:\Users\pere\source\repos\week6\NumberArrays\obj\Debug\net6.0\NumberArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pere\source\repos\week6\NumberArrays\obj\Debug\net6.0\NumberArrays.AssemblyInfoInputs.cache
+C:\Users\pere\source\repos\week6\NumberArrays\obj\Debug\net6.0\NumberArrays.AssemblyInfo.cs
+C:\Users\pere\source\repos\week6\NumberArrays\obj\Debug\net6.0\NumberArrays.csproj.CoreCompileInputs.cache
+C:\Users\pere\source\repos\week6\NumberArrays\obj\Debug\net6.0\NumberArrays.dll
+C:\Users\pere\source\repos\week6\NumberArrays\obj\Debug\net6.0\refint\NumberArrays.dll
+C:\Users\pere\source\repos\week6\NumberArrays\obj\Debug\net6.0\NumberArrays.pdb
+C:\Users\pere\source\repos\week6\NumberArrays\obj\Debug\net6.0\NumberArrays.genruntimeconfig.cache
+C:\Users\pere\source\repos\week6\NumberArrays\obj\Debug\net6.0\ref\NumberArrays.dll
